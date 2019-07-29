@@ -5,8 +5,6 @@ public class Test01 {
         Random random = new Random();
         System.out.println("我是" + random.nextInt());
         System.out.println("我是" + random.nextInt());
-        System.out.println("我是" + random.nextInt());
-        System.out.println("我是" + random.nextInt());
-        System.out.println("我是" + random.nextInt());
+     
     }
 }
